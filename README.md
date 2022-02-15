@@ -5,6 +5,10 @@
 The provided Application in this repository is a limited version of the main application which will be released for public use in November 2022.
 In the following some image of application has been provided.
 
+Researcher: Amin Ramezani
+
+Application developer: Sepehr Samavati
+
 <img src="https://github.com/Sepehr-Samavati/Tehran-Constitutional-Map-Application/blob/f4333c79047de412b1bba5a1518a51bbab89012c/Img/WhatsApp%20Image%202022-01-16%20at%2000.12.15%20(1).jpeg" width="600">
 
 <img src="https://github.com/Sepehr-Samavati/Tehran-Constitutional-Map-Application/blob/f4333c79047de412b1bba5a1518a51bbab89012c/Img/WhatsApp%20Image%202022-01-16%20at%2000.12.15%20(2).jpeg" width="600">
